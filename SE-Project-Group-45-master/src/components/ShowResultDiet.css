@@ -1,0 +1,8 @@
+.result{
+    margin-top: -7vh;
+    margin-bottom: 11vh;
+    border: 1pt black solid;
+    border-radius: 15px;
+    background-color: black;
+    font-weight: 500;
+}

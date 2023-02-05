@@ -1,0 +1,16 @@
+.user-detail{
+    display: block;
+    flex-wrap: wrap;
+    position:relative;
+    justify-content: flex-start;
+    box-sizing: padding-box;
+    top:3.1vh;
+    height:170px;
+    background-color: rgb(144, 232, 238);
+    font-weight: 545;
+    font-size: 14pt;
+    padding-top: 5vh ;
+    text-align: center;
+    font-family:"Arial", Times, Sans-serif;
+    border: 1pt black solid;
+}

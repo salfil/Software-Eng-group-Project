@@ -1,0 +1,25 @@
+.login {
+    display: flex;
+      flex-direction: column;
+      
+      color: #fff;
+      width: 414px;
+      height: 90%;
+      height: 736px;
+      text-align: center;
+      font-family: "Lexend", "Arial", sans-serif;
+      padding-top: 80px;
+      margin: 0 auto;
+      
+      background-color: #15d2e04d ;
+      background-blend-mode: lighten;
+  
+      overflow: hidden;
+  
+      text-align: center;
+      color: white;
+  
+      
+  
+  }
+  
